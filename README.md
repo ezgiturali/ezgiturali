@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Power BI, Deep Learning**
 
-- 📝 I regulary write articles on [https://medium.com/@ezgiturali](https://medium.com/@ezgiturali)
+- 📝 I regularly write articles on [https://medium.com/@ezgiturali](https://medium.com/@ezgiturali)
 
 - 💬 Ask me about **visualizations and analytics**
 
