@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezgiturali" alt="ezgiturali" /> </p>
 
-- 🔭 I’m currently working on **Deep Learning understanding**
+- 🔭 I’m currently working on **Power BI**
 
-- 🌱 I’m currently learning **Power BI, Deep Learning**
+- 🌱 I’m currently learning **Google Cloud**
 
 - 📝 I regularly write articles on [https://medium.com/@ezgiturali](https://medium.com/@ezgiturali)
 
