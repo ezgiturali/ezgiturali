@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezgiturali" alt="ezgiturali" /> </p>
 
-- 🔭 I’m currently working on **Power BI**
+- 🔭 I’m currently working on **Marketing Analysis**
 
-- 🌱 I’m currently learning **Google Cloud**
+- 🌱 I’m currently learning **Data Science in Gaming Industry**
 
 - 📝 I regularly write articles on [https://medium.com/@ezgiturali](https://medium.com/@ezgiturali)
 
