@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ezgi</h1>
-<h3 align="center">Data Visualization & Data Analytics</h3>
+<h3 align="center">Data Science & Game Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezgiturali" alt="ezgiturali" /> </p>
 
