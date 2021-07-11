@@ -18,7 +18,6 @@
 <a href="https://linkedin.com/in/ezgituralı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezgituralı" height="30" width="40" /></a>
 <a href="https://kaggle.com/ezgitural" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ezgitural" height="30" width="40" /></a>
 <a href="https://medium.com/@ezgiturali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ezgiturali" height="30" width="40" /></a>
-<a href="https://discord.gg/Ezgi Turalı#6321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ezgi Turalı#6321" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
