@@ -9,8 +9,6 @@
 
 - 📝 I regularly write articles on [https://ezgiturali.medium.com](https://ezgiturali.medium.com)
 
-- 💬 Ask me about **visualizations and analytics**
-
 - 📫 How to reach me **ezgi.turali@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
