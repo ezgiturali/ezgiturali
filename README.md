@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **dynamic flows**
 
-- 🌱 I’m currently learning **docxtpl**
+- 🌱 I’m currently learning **chatbots**
 
 - 📝 I regularly write articles on [https://ezgiturali.medium.com](https://ezgiturali.medium.com)
 
