@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezgiturali&label=Profile%20views&color=0e75b6&style=flat" alt="ezgiturali" /> </p>
 
-- 🔭 I’m currently working on **dynamic flows**
+- 🔭 I’m currently working on **NLP**
 
 - 🌱 I’m currently learning **chatbots**
 
