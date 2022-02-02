@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Ezgi</h1>
-<h3 align="center">Data Scientist, Data Analyst and MSc in Data Science</h3>
+<h3 align="center">Data Analyst and MSc in Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezgiturali&label=Profile%20views&color=0e75b6&style=flat" alt="ezgiturali" /> </p>
 
