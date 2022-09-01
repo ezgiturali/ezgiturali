@@ -1,14 +1,11 @@
 <h1 align="center">Hey there, I'm Ezgi</h1>
-<h3 align="center">Senior Data Analyst and M.Sc. in Data Science</h3>
 
-- 🔭 I’m currently working on **automatization**
+I am a Senior Data Analyst working at PwC. I finished the Applied Data Science master's program in 2021. Currently, I am improving myself on MLOps. I'm trying to contribute more to the community!
 
-- 🌱 I’m currently learning **NLP**
-
-- 📫 How to reach me **ezgi.turali@gmail.com**
+Feel free to reach me **ezgi.turali@gmail.com**
 
 
-## 🌐Socials
+## 🌐Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ezgituralı) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ezgiturali) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ezgiturali) 
 
 # 💻Tech Stack
