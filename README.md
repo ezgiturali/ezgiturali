@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Ezgi</h1>
 
-I am a Senior Data Analyst working at PwC. I finished the Applied Data Science master's program in 2021. Currently, I am improving myself on MLOps. I'm trying to contribute more to the community!
+I am a Senior Data Analyst working at PwC. I have a M.Sc. in Applied Data Science. Currently, I am improving myself on MLOps. I'm trying to contribute more to the community!
 
 Feel free to reach me **ezgi.turali@gmail.com**
 
