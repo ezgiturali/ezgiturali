@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Ezgi</h1>
 
-I am a Senior Data Analyst. I have a M.Sc. in Applied Data Science. Currently, I am improving myself on MLOps. I'm trying to contribute more to the community. Open source rules!
+I am a Senior Data Scientist. I have a M.Sc. in Applied Data Science. I'm trying to contribute more to the community. Open source rules!
 
 Feel free to reach me **ezgi.turali@gmail.com**
 
